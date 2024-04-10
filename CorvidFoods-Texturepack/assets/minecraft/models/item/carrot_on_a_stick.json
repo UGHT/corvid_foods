@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1200}, "model": "item/mallow_stick_raw"},
+    {"predicate": {"custom_model_data":1201}, "model": "item/mallow_stick_golden"},
+    {"predicate": {"custom_model_data":1202}, "model": "item/mallow_stick_roasted"}
+  ]
+}

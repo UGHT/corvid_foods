@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data":1200}, "model": "item/ambrosia"},
+        {"predicate": {"custom_model_data":1201}, "model": "item/firewine"},
+        {"predicate": {"custom_model_data":1202}, "model": "item/matcha"},
+        {"predicate": {"custom_model_data":1203}, "model": "item/sweet_berry_wine"}
+	]
+}
