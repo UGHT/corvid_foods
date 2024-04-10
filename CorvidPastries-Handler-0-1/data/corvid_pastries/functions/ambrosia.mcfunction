@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Item:{id:"minecraft:potion",Count:1b,tag:{display:{Name:'{"text":"Ambrosia","italic":false}'},CustomPotionEffects:[{Id:1,Amplifier:0b,Duration:6000},{Id:3,Amplifier:0b,Duration:6000},{Id:5,Amplifier:0b,Duration:6000},{Id:16,Amplifier:0b,Duration:6000},{Id:21,Amplifier:1b,Duration:6000},{Id:23,Amplifier:2b,Duration:200}], CustomModelData:1200}}}

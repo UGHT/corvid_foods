@@ -1,0 +1,4 @@
+item replace entity @s[nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick", tag:{CustomModelData:1201}}}] weapon.mainhand with carrot_on_a_stick{display:{Name:'{"text":"Roast Marshmallow on a Stick","italic":false}'}, CustomModelData:1202} 1
+item replace entity @s[nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick", tag:{CustomModelData:1200}}}] weapon.mainhand with carrot_on_a_stick{display:{Name:'{"text":"Golden Marshmallow on a Stick","italic":false}'}, CustomModelData:1201} 1
+scoreboard players reset @s corvid_pastries.carrot_on_a_stick
+playsound minecraft:block.fire.ambient player @s ~ ~ ~ 1000 1

@@ -1,0 +1,1 @@
+scoreboard objectives add corvid_pastries.carrot_on_a_stick used:carrot_on_a_stick
